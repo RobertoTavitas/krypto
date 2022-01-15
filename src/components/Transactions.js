@@ -1,5 +1,4 @@
 import React from "react";
-import ether1 from "../images/ether1.jpg";
 import bitcoin from '../images/bitcoin.jpg';
 import ether3 from '../images/ether3.jpg';
 
