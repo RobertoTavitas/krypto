@@ -18,9 +18,9 @@ const Footer = () => (
     </div>
 
     <div className="flex justify-center items-center flex-col mt-5">
-      <p className="text-white text-sm text-center">Frontend Web Developer - look for me on Linkedin</p>
+      <p className="text-white text-sm text-center">Front End Developer - Look for me on Linkedin</p>
       <a href="https://www.linkedin.com/in/robertotavitas/" target="_blank" rel="noreferrer">
-        <p className="text-white text-sm text-center font-medium mt-2">Linkedin/RobertoTavitas</p>
+        <p className="text-white text-sm text-center font-medium mt-2 font-bold">Linkedin/RobertoTavitas</p>
       </a>
     </div>
 

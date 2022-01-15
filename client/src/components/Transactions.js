@@ -56,7 +56,8 @@ const Transactions = () => {
                 addressTo="0xcf8...a6a90" 
                 amount={0.01}
                 coin={"Ethereum"}
-                message="Test" time="8/01/2022 - 7:00 a.m."
+                message="Test" 
+                time="8/01/2022 - 7:00 a.m."
                 picture={ether3}
             />
             <TransactionsCard 
@@ -64,31 +65,45 @@ const Transactions = () => {
                 addressTo="0xcf8...a6a90" 
                 amount={"0.0011729"}
                 coin={"Ethereum"}
-                message="Test" time="7/01/2022 - 8:58 p.m."
+                message="Test" 
+                time="7/01/2022 - 8:58 p.m."
                 picture={ether3}
             />
             <TransactionsCard 
-                addressFrom="0xcf...a6a90" 
+                addressFrom="0xcf4...a2a81" 
                 addressTo="0x8aa...cfdbe" 
                 amount={"0.00003288438"}
                 coin={"Bitcoin"}
-                message="Test" time="7/01/2022 - 1:19 p.m."
+                message="Test" 
+                time="7/01/2022 - 1:19 p.m."
                 picture={bitcoin}
             />
             <TransactionsCard 
-                addressFrom="de" 
+                addressFrom="0vdg7...s5b69" 
                 addressTo="para" 
-                message="Test" time="6/01/2022 - 4:09 p.m."
+                amount={"0.000287345"}
+                coin={"Ethereum"}
+                message="Test" 
+                time="6/01/2022 - 4:09 p.m."
+                picture={ether3}
             />
             <TransactionsCard 
-                addressFrom="de" 
+                addressFrom="0xcf4...a2a81" 
                 addressTo="para" 
-                message="Test" time="6/01/2022 - 9:43 a.m."
+                amount={"0.0090872435"}
+                coin={"Bitcoin"}
+                message="Test" 
+                time="6/01/2022 - 9:43 a.m."
+                picture={bitcoin}
             />
             <TransactionsCard 
-                addressFrom="de" 
+                addressFrom="0xcf4...a2a81" 
                 addressTo="para" 
-                message="Test" time="5/01/2022 - 11:34 a.m."
+                amount={"0.00007623455"}
+                coin={"Bitcoin"}
+                message="Test" 
+                time="5/01/2022 - 11:34 a.m."
+                picture={bitcoin}
             />
             </div>
       </div>
